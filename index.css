@@ -1,0 +1,375 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    cursor: auto;
+    font-family: 'Rubik', sans-serif;
+    background: linear-gradient(113.59deg, rgba(239, 239, 239, 0) -2.01%, rgba(239, 239, 239, 0.2) 103.74%);
+    backdrop-filter: blur(388.5px);
+}
+
+nav {
+    margin-top: 60px;
+}
+
+.list_items {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #363853;
+    display: flex;
+    gap: 39px;
+    margin-top: 14px;
+}
+
+.active {
+    color: #FF6838;
+}
+
+.fa-solid {
+    font-size: 18px;
+}
+
+.icon_btn_div {
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+
+.btn1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 5px;
+    border: none;
+    padding: 14px 28px;
+    margin-left: 80px;
+}
+
+.katta_div {
+    margin-left: -30px;
+}
+
+.logo1 {
+    margin-top: 10px;
+    width: 100px;
+}
+
+.sarlavha1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 78px;
+    text-transform: capitalize;
+    color: #363853;
+}
+
+.sarlavha1 span {
+    color: #FF7A50;
+}
+
+.textlar1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #363853;
+    margin-top: 23px;
+}
+
+.btndiv1 {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-top: 44px;
+}
+
+.btn2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 21px;
+}
+
+.btn_text {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #363853;
+}
+
+.brat {
+    width: 100%;
+}
+
+header {
+    margin-top: 100px;
+}
+
+
+.sarlavha2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    text-transform: capitalize;
+    color: #363853;
+    text-align: center;
+}
+
+.sarlavha2 span {
+    color: #FF6838;
+}
+
+.section1 {
+    margin-top: 90px;
+}
+
+.mavzu_div {
+    width: 210px;
+    height: 70px;
+    background: #FF7A50;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.416);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.img1 {
+    width: 44px;
+    height: 44px;
+}
+
+.Nomi {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+.katt_div1 {
+    display: flex;
+    gap: 30px;
+    margin-top: 55px;
+}
+
+.w {
+    background: #FFFFFF;
+    border-radius: 8px;
+    color: #363853;
+}
+
+.w:hover {
+    background: #FF7A50;
+    color: #FFFFFF;
+    transition: 500ms;
+}
+
+.qoraText {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+
+
+.img1_pizza {
+    width: 60px;
+    height: 60px;
+}
+
+.oq_div {
+    width: 208px;
+    height: 300px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    box-shadow: 1px 1px 20px -10px #363853;
+}
+
+.oq_div:hover {
+    box-shadow: 1px 1px 20px #363853;
+    transition: 500ms;
+}
+
+.burgerImg {
+    width: 144px;
+    height: 144px;
+}
+
+.imgDiv1 {
+    display: flex;
+    justify-content: center;
+}
+
+.imgDiv2 {
+    display: flex;
+    justify-content: center;
+}
+
+.yulduzlar {
+    width: 144px;
+    height: 20px;
+}
+
+.text1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #363853;
+    text-align: center;
+    margin-top: 26px;
+}
+
+
+.summa {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #363853;
+    text-align: center;
+    margin-top: 9px;
+}
+
+.btn2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background: #FF7A50;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.btnDiv1 {
+    display: flex;
+    justify-content: center;
+}
+
+.btn2:hover {
+    box-shadow: 1px 1px 10px #FF6838;
+}
+
+.kattaDiv2 {
+    display: flex;
+    gap: 32px;
+    margin-top: 30px;
+}
+
+.kichikDiv {
+    display: flex;
+    gap: 30px;
+    margin-top: 25px;
+}
+
+.text2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #363853;
+    margin-top: 6px;
+}
+
+.icon1 {
+    width: 40px;
+    height: 40px;
+}
+
+.btn3 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 30px 30px 1px 30px;
+    border: none;
+    padding: 17px 44px;
+}
+
+.kattDiv3 {}
+
+.sar2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #363853;
+}
+
+.sar2 span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #FF7A50;
+}
+
+.Koptext {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #363853;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.btnDiv2{
+    margin-top: 50px;
+}
