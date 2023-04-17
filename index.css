@@ -337,7 +337,10 @@ header {
     padding: 17px 44px;
 }
 
-.kattDiv3 {}
+.btn3:hover {
+    box-shadow: 2px 3px 30px rgba(255, 103, 56, 0.685);
+}
+
 
 .sar2 {
     font-family: 'Rubik';
@@ -370,6 +373,182 @@ header {
     margin-bottom: 20px;
 }
 
-.btnDiv2{
+.btnDiv2 {
     margin-top: 50px;
+}
+
+.sarlavha3 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #363853;
+    text-align: center;
+}
+
+.sarlavha3 span {
+    color: #FF7A50;
+}
+
+.section3 {
+    margin-top: 128px;
+}
+
+.oqDiv2 {
+    width: 361px;
+    height: 417px;
+    background: #FFFFFF;
+    border-radius: 53px 5px;
+    box-shadow: 1px 1px 8px rgb(75, 73, 73);
+}
+
+.sar4 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #363853;
+    margin-top: 22px;
+    margin-left: 20px;
+}
+
+.kichichikDiv2 {
+    display: flex;
+    align-items: center;
+}
+
+.vaqt {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #363853;
+    opacity: 0.9;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.btn4 {
+    padding: 5px 35px;
+    background: #FF7A50;
+    border-radius: 20px 20px 0px 20px;
+    border: none;
+    margin-left: 30px;
+}
+
+.btn4:hover{
+    box-shadow: 2px 2px 12px rgba(255, 103, 56, 0.96);
+}
+
+.fa-solid {
+    color: #FFFFFF;
+}
+
+.fa-sharp {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.pitsa1 {
+    border-radius: 53px 5px 0px 0px;
+}
+
+.kattaDiv3 {
+    display: flex;
+    gap: 60px;
+    margin-left: -70px;
+    margin-top: 50px;
+}
+
+.imgDiv3 {
+    display: flex;
+    gap: 40px;
+}
+
+.sar5 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #363853;
+}
+
+.sar5 span {
+    color: #FF7A50;
+}
+
+.text5 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #363853;
+    opacity: 0.9;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.Uchta_tel {
+    width: 100%;
+}
+
+.section4 {
+    margin-top: 165px;
+}
+
+.sarlavha4 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.5px;
+    color: #363853;
+    text-align: center;
+}
+
+.sarlavha4 span {
+    color: #FF7A50;
+}
+
+.sction5 {
+    margin-top: 166px;
+}
+
+.text5 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 45px;
+    letter-spacing: 0.5px;
+    color: #363853;
+}
+
+.sar6 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FF7A50;
+}
+
+.taex6 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #AAAAAA;
+    margin-top: 18px;
+    margin-bottom: 100px;
 }
