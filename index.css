@@ -440,7 +440,7 @@ header {
     margin-left: 30px;
 }
 
-.btn4:hover{
+.btn4:hover {
     box-shadow: 2px 2px 12px rgba(255, 103, 56, 0.96);
 }
 
@@ -552,3 +552,79 @@ header {
     margin-top: 18px;
     margin-bottom: 100px;
 }
+
+.olovrangDiv {
+    width: 1170px;
+    height: 312px;
+    background: #FF7A50;
+    border-radius: 25px;
+    text-align: center;
+    padding: 40px 180px 10px ;
+
+}
+
+.btn5 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FF7A50;
+    border-radius: 70px;
+    border: none;
+    padding: 15px 22px;
+}
+
+.btn5:hover{
+    box-shadow: 2px 2px 12px rgba(255, 103, 56, 0.96);
+}
+
+.hedding1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.text6 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+    margin-top: 12px;
+}
+
+.OlovOqrang {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.07);
+    border-radius: 70px;
+    /* width: 838.5px; */
+    height: 78px;
+    margin-top: 31px;
+    gap: 390px;
+}
+
+.hedding2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #363853;
+    opacity: 0.9;
+    margin-top: 8px;
+}
+
